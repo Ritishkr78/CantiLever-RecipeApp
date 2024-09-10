@@ -62,12 +62,14 @@ Once the app is installed, you can:
 - **Track Calories**: View the calorie information for each recipe to help manage your diet.
 
 ## Screenshots
-![homescreen](https://github.com/user-attachments/assets/3355e85e-cdec-489f-9f6b-6bf48c25687f)
-![search](https://github.com/user-attachments/assets/ae8894aa-0fe6-496e-92e5-268d1ca12170)
-![categories](https://github.com/user-attachments/assets/d53cde98-b81f-42f1-ab1f-b542c4076c75)
-![recipe](https://github.com/user-attachments/assets/2ad8de1b-0c1b-4f49-a103-1197a54a082c)
-![favourite](https://github.com/user-attachments/assets/a8add8d6-193c-48c6-824c-e696990d1705)
+### Home Screen
+<img src="C:\Users\rites\Downloads\Documents\homescreen.jpg" alt="Home Screen" width="400"/>
 
+### Recipe Detail
+<img src="path/to/recipe_detail.png" alt="Recipe Detail" width="400"/>
+
+### Search Functionality
+<img src="path/to/search_functionality.png" alt="Search Functionality" width="400"/>
 
 ## Contributing
 
