@@ -63,7 +63,7 @@ Once the app is installed, you can:
 
 ## Screenshots
 ### Home Screen
-<img src="C:\Users\rites\Downloads\Documents\homescreen.jpg" alt="Home Screen" width="400"/>
+<img src="![homescreen](https://github.com/user-attachments/assets/b1e3e978-266e-406d-8192-b014ad2c86aa)" alt="Home Screen" width="400"/>
 
 ### Recipe Detail
 <img src="path/to/recipe_detail.png" alt="Recipe Detail" width="400"/>
