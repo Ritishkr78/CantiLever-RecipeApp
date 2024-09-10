@@ -15,8 +15,8 @@ Welcome to the HomeMade recipe app! This Flutter-based application allows you to
 
 ### Prerequisites
 
-- [Flutter](https://flutter.dev/docs/get-started/install) 2.x or later
-- [Dart](https://dart.dev/get-dart) 2.x or later
+- **Flutter**: 3.7.0 or later
+- **Dart**: 2.19.0 or later
 
 ### Installation
 
@@ -60,6 +60,14 @@ Once the app is installed, you can:
 - **Explore Categories**: Browse through categories to find recipes that interest you.
 - **Manage Recipes**: Add, edit, or delete recipes as needed.
 - **Track Calories**: View the calorie information for each recipe to help manage your diet.
+
+## Screenshots
+![homescreen](https://github.com/user-attachments/assets/3355e85e-cdec-489f-9f6b-6bf48c25687f)
+![search](https://github.com/user-attachments/assets/ae8894aa-0fe6-496e-92e5-268d1ca12170)
+![categories](https://github.com/user-attachments/assets/d53cde98-b81f-42f1-ab1f-b542c4076c75)
+![recipe](https://github.com/user-attachments/assets/2ad8de1b-0c1b-4f49-a103-1197a54a082c)
+![favourite](https://github.com/user-attachments/assets/a8add8d6-193c-48c6-824c-e696990d1705)
+
 
 ## Contributing
 
