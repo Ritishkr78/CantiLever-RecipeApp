@@ -63,13 +63,20 @@ Once the app is installed, you can:
 
 ## Screenshots
 ### Home Screen
-<img src="![homescreen](https://github.com/user-attachments/assets/b1e3e978-266e-406d-8192-b014ad2c86aa)" alt="Home Screen" width="400"/>
+![homescreen](https://github.com/user-attachments/assets/af23c3f4-4382-4bda-9c06-1b45e32b5a1c)
 
 ### Recipe Detail
-<img src="path/to/recipe_detail.png" alt="Recipe Detail" width="400"/>
+![recipe](https://github.com/user-attachments/assets/3d609507-91cf-46ba-a27c-379564374f76)
 
 ### Search Functionality
-<img src="path/to/search_functionality.png" alt="Search Functionality" width="400"/>
+![search](https://github.com/user-attachments/assets/f3542f2b-66d2-469a-9503-91020405d217)
+
+### Categories
+![categories](https://github.com/user-attachments/assets/f9a053c8-ea58-427b-88a2-9a15a94a3b44)
+
+### Favourite
+![favourite](https://github.com/user-attachments/assets/ae9dd134-1481-445c-969a-ba846e735fb3)
+
 
 ## Contributing
 
