@@ -82,10 +82,6 @@ Once the app is installed, you can:
 
 We welcome contributions to the HomeMade app! Please fork the repository and submit pull requests. Ensure that your code follows the existing style and is well-tested.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, please contact :riteshgoli930@gmail.com
