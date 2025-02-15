@@ -2,7 +2,7 @@ class ImagePath {
   static String breakfast = 'assets/images/breakfast.jpg';
   static String chocolate = 'assets/images/chocolate.jpg';
   static String dinner = 'assets/images/dinner.png';
-  static String drink = 'assets/images/dinner.png';
+  static String drink = 'assets/images/drink.png';
   static String fastfood = 'assets/images/fast-food.png';
   static String fish = 'assets/images/fish-and-chips.png';
   static String icecream = 'assets/images/ice-cream.png';
@@ -15,4 +15,6 @@ class ImagePath {
   static String easy = 'assets/images/easy.png';
   static String chicken = 'assets/images/chicken.png';
   static String lowfat = 'assets/images/lowfat.png';
+  static String vegetable2 = 'assets/images/veg.jpg';
+  static String breakfast2 = 'assets/images/breakfast2.jpg';
 }

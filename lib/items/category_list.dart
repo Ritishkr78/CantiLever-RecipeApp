@@ -27,7 +27,9 @@ List categories = [
   'chicken',
   'easy',
   'quick',
-  'lowFat'
+  'lowFat',
+  'vegetable2'
+      'breakfast2'
 ];
 
 List categoryImages = [
@@ -39,8 +41,12 @@ List categoryImages = [
   ImagePath.pop,
   ImagePath.tasty,
   ImagePath.vegetable,
-  ImagePath.easy,
   ImagePath.chicken,
+  ImagePath.easy,
   ImagePath.quick,
+  ImagePath.lowfat,
+  ImagePath.breakfast2,
+  ImagePath.vegetable2,
+  ImagePath.chicken,
   ImagePath.lowfat,
 ];
